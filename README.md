@@ -277,6 +277,7 @@ Foundation: Type of foundation
        Stone	Stone
        Wood	Wood
 		
+		
 BsmtQual: Evaluates the height of the basement
 
        Ex	Excellent (100+ inches)	
